@@ -1,26 +1,33 @@
-In this project, we review everything about Python:
+Python - Almost a circle
 
-Import
-Exceptions
-Class
-Private attribute
-Getter/Setter
-Class method
-Static method
-Inheritance
-Unittest
-Read/Write file
-We also learn about:
+Background Context
 
-args and kwargs
-Serialization/Deserialization
-JSON
+The AirBnB project is a big part of the Higher level curriculum. This project will help you be ready for it.
 
-Table of Contents
-Files	Description
-models/	Folder containing all the modules of this project
-models/init.py	Empty file that makes the folder a Python module
-models/base.py	Class Base that will be the “base” of all other classes in this project
-models/rectangle.py	Class Rectangle that inherits from Base
-models/square.py	Class Square that inherits from Rectangle
-tests/test_models/	Folder containing all the unittests for this project
+In this project, you will review everything about Python:
+
+    Import
+    Exceptions
+    Class
+    Private attribute
+    Getter/Setter
+    Class method
+    Static method
+    Inheritance
+    Unittest
+    Read/Write file
+
+You will also learn about:
+
+    args and kwargs
+    Serialization/Deserialization
+    JSON
+
+General
+
+    What is Unit testing and how to implement it in a large project
+    How to serialize and deserialize a Class
+    How to write and read a JSON file
+    What is *args and how to use it
+    What is **kwargs and how to use it
+    How to handle named arguments in a function
